@@ -1,0 +1,8 @@
+e:\Users\Vladimir\Source\Repos\Auth\Auth\bin\Debug\netcoreapp3.1\Auth.deps.json
+e:\Users\Vladimir\Source\Repos\Auth\Auth\bin\Debug\netcoreapp3.1\Auth.dll
+e:\Users\Vladimir\Source\Repos\Auth\Auth\bin\Debug\netcoreapp3.1\Auth.pdb
+e:\Users\Vladimir\Source\Repos\Auth\Auth\obj\Debug\netcoreapp3.1\Auth.AssemblyInfoInputs.cache
+e:\Users\Vladimir\Source\Repos\Auth\Auth\obj\Debug\netcoreapp3.1\Auth.AssemblyInfo.cs
+e:\Users\Vladimir\Source\Repos\Auth\Auth\obj\Debug\netcoreapp3.1\Auth.dll
+e:\Users\Vladimir\Source\Repos\Auth\Auth\obj\Debug\netcoreapp3.1\Auth.pdb
+e:\Users\Vladimir\Source\Repos\Auth\Auth\obj\Debug\netcoreapp3.1\Auth.csproj.CoreCompileInputs.cache
